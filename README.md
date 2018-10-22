@@ -1,5 +1,6 @@
 # PDFManager
 
+
 REQUIRED: ADOBE ACROBAT	
 To add acrobat library, open Visual Basic, under Tools->References, check "acrobat" if "Adobe Acrobat" is unchecked.
 
